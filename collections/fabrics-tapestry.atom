@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.totofabrics.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.totofabrics.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.totofabrics.com/collections/fabrics-tapestry.atom"/>
+  <title>Toto Fabrics</title>
+  <updated>2018-05-19T02:32:28-04:00</updated>
+  <author>
+    <name>Toto Fabrics</name>
+  </author>
+  <entry>
+    <id>https://www.totofabrics.com/products/853491974201</id>
+    <published>2018-05-19T02:32:28-04:00</published>
+    <updated>2018-05-19T02:32:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/upholstery-fabric-hafia-ivory-yardage"/>
+    <title>Hafia Ivory Victorian Style Ivory Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>Swavelle Mill Creek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/upholstery-fabric-hafia-ivory-toto-fabrics-mhm-1.jpg?v=1619203136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swavelle Mill Creek<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 10.50
+            <a href="https://www.totofabrics.com/products/upholstery-fabric-hafia-ivory-yardage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>A designer upholstery weight fabric with ivory and beige accents. Suitable for sofas, chairs, pillows, headboards, designer bags and other upholstery craft projects.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Hafia Ivory <br><b>ID Number</b> 160819-99128YD <br><b>Color</b> Ivory<br><b>Width</b> 57" <br><b>Pattern Repeat</b> 7.5” Horizontal, 9” Vertical <br><b>Fiber Contents</b> Unspecified<br><b>Vendor</b> Swavelle Mill Creek</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> - <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> - <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-15-yard-price</s:tag>
+    <s:tag>57-to-99-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-ivory</s:tag>
+    <s:tag>fabrics-tapestry</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>unspecified-traffic-fabric</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/853491974201</id>
+      <title>Order Product</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>160819-99128YD Hafia Ivory A1279</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/853491974201</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>160819-99128FS Hafia Ivory A1279</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

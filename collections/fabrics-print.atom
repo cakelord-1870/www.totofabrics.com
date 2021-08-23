@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.totofabrics.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.totofabrics.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.totofabrics.com/collections/fabrics-print.atom"/>
+  <title>Toto Fabrics</title>
+  <updated>2017-12-02T15:52:00-05:00</updated>
+  <author>
+    <name>Toto Fabrics</name>
+  </author>
+  <entry>
+    <id>https://www.totofabrics.com/products/3674081921</id>
+    <published>2017-12-02T15:52:00-05:00</published>
+    <updated>2017-12-02T15:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/upholstery-fabric-soulmate-mulberry-remnant"/>
+    <title>Remnant of Soul Mate Mulberry Red Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>Waverly Fabrics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/upholstery-fabric-soulmate-mulberry-toto-fabrics-wav-1.jpeg?v=1512244319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waverly Fabrics<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            9.62 - 102.70
+            <a href="https://www.totofabrics.com/products/upholstery-fabric-soulmate-mulberry-remnant">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b> <br>
+<p>This light upholstery fabric is printed with a beige heart lattice over a brick red ground. The slubbed cotton textile has a modern geometric pattern, perfect for drapes and other home decor accents.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Soul Mate Mulberry <br><b>ID Number</b> 151209-44101RT <br><b>Color</b> Red<br><b>Width</b> 55" <br><b>Pattern Repeat</b> 5.4” Horizontal, 5.05” Vertical <br><b>Fiber Contents</b> 100% Cotton<br><b>Vendor</b> Waverly Fabrics</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> - <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> - <br><b>Cleaning:</b> Dry Clean Recommended <br><b>Additional Information:</b> Pattern #676810. Collection: Wild At Heart. 2 Screens. Made In The Usa. Reduced Price Per Yard. This Fabric Is Sold As-Is Due To Small Errors In The Screen Print. This Flaw Can Be Seen In The Fabric Photo.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>color-red</s:tag>
+    <s:tag>content-cotton</s:tag>
+    <s:tag>fabrics-print</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-geometric</s:tag>
+    <s:tag>pattern-hearts</s:tag>
+    <s:tag>pattern-lattice</s:tag>
+    <s:tag>remnant</s:tag>
+    <s:tag>unspecified-traffic-fabric</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 1</title>
+      <s:price currency="USD">9.62</s:price>
+      <s:sku>151209-44101RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>508</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 1 1/8</title>
+      <s:price currency="USD">10.82</s:price>
+      <s:sku>151209-44102RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>572</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 1 2/8</title>
+      <s:price currency="USD">12.03</s:price>
+      <s:sku>151209-44103RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 1 3/8</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>151209-44104RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>699</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 1 4/8</title>
+      <s:price currency="USD">14.43</s:price>
+      <s:sku>151209-44105RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>762</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 1 5/8</title>
+      <s:price currency="USD">15.63</s:price>
+      <s:sku>151209-44106RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>826</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 1 6/8</title>
+      <s:price currency="USD">16.84</s:price>
+      <s:sku>151209-44107RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>889</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 1 7/8</title>
+      <s:price currency="USD">18.04</s:price>
+      <s:sku>151209-44108RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>953</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 2</title>
+      <s:price currency="USD">19.24</s:price>
+      <s:sku>151209-44109RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>1016</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 2 1/8</title>
+      <s:price currency="USD">20.44</s:price>
+      <s:sku>151209-44110RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>1080</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 2 2/8</title>
+      <s:price currency="USD">21.65</s:price>
+      <s:sku>151209-44111RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>1143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 2 3/8</title>
+      <s:price currency="USD">22.85</s:price>
+      <s:sku>151209-44112RT Soulmate Mulberry FW4848</s:sku>
+      <s:grams>1207</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 2 4/8</title>
+      <s:price currency="USD">24.05</s:price>
+      <s:sku>151209-44113RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>1270</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 2 5/8</title>
+      <s:price currency="USD">25.25</s:price>
+      <s:sku>151209-44114RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>1338</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 2 6/8</title>
+      <s:price currency="USD">26.46</s:price>
+      <s:sku>151209-44115RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>1397</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 2 7/8</title>
+      <s:price currency="USD">27.66</s:price>
+      <s:sku>151209-44116RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>1465</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 3</title>
+      <s:price currency="USD">28.86</s:price>
+      <s:sku>151209-44117RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>1524</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 3 1/8</title>
+      <s:price currency="USD">30.06</s:price>
+      <s:sku>151209-44118RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>1592</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 3 2/8</title>
+      <s:price currency="USD">31.27</s:price>
+      <s:sku>151209-44119RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>1656</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 3 3/8</title>
+      <s:price currency="USD">32.47</s:price>
+      <s:sku>151209-44120RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>1719</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 3 4/8</title>
+      <s:price currency="USD">33.67</s:price>
+      <s:sku>151209-44121RT Soulmate Mulberry FW4851</s:sku>
+      <s:grams>1783</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 3 5/8</title>
+      <s:price currency="USD">34.87</s:price>
+      <s:sku>151209-44122RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>1846</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 3 6/8</title>
+      <s:price currency="USD">36.08</s:price>
+      <s:sku>151209-44123RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>1910</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 3 7/8</title>
+      <s:price currency="USD">37.28</s:price>
+      <s:sku>151209-44124RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>1973</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 4</title>
+      <s:price currency="USD">38.48</s:price>
+      <s:sku>151209-44125RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>2037</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 4 1/8</title>
+      <s:price currency="USD">39.68</s:price>
+      <s:sku>151209-44126RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>2100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 4 2/8</title>
+      <s:price currency="USD">40.89</s:price>
+      <s:sku>151209-44127RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>2164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 4 3/8</title>
+      <s:price currency="USD">42.09</s:price>
+      <s:sku>151209-44128RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>2227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 4 4/8</title>
+      <s:price currency="USD">43.29</s:price>
+      <s:sku>151209-44129RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>2291</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 4 5/8</title>
+      <s:price currency="USD">44.49</s:price>
+      <s:sku>151209-44130RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>2354</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 4 6/8</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>`=151209-44131RT Soulmate Mulberry 46B</s:sku>
+      <s:grams>2418</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 4 7/8</title>
+      <s:price currency="USD">46.90</s:price>
+      <s:sku>151209-44132RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>2481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 5</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>151209-44133RT Soulmate Mulberry FW4849</s:sku>
+      <s:grams>2545</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 5 1/8</title>
+      <s:price currency="USD">53.30</s:price>
+      <s:sku>151209-44134RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>2608</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 5 2/8</title>
+      <s:price currency="USD">54.60</s:price>
+      <s:sku>151209-44135RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>2672</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 5 3/8</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>151209-44136RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>2735</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 5 4/8</title>
+      <s:price currency="USD">57.20</s:price>
+      <s:sku>151209-44137RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>2799</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 5 5/8</title>
+      <s:price currency="USD">58.50</s:price>
+      <s:sku>151209-44138RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>2862</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 5 6/8</title>
+      <s:price currency="USD">59.80</s:price>
+      <s:sku>151209-44139RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>2926</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 5 7/8</title>
+      <s:price currency="USD">61.10</s:price>
+      <s:sku>151209-44140RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>2989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 6</title>
+      <s:price currency="USD">62.40</s:price>
+      <s:sku>151209-44141RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>3053</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 6 1/8</title>
+      <s:price currency="USD">63.70</s:price>
+      <s:sku>151209-44142RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>3116</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 6 2/8</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>151209-44143RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>3180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 6 3/8</title>
+      <s:price currency="USD">66.30</s:price>
+      <s:sku>151209-44144RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>3243</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 6 4/8</title>
+      <s:price currency="USD">67.60</s:price>
+      <s:sku>151209-44145RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>3307</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 6 5/8</title>
+      <s:price currency="USD">68.90</s:price>
+      <s:sku>151209-44146RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>3370</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 6 6/8</title>
+      <s:price currency="USD">70.20</s:price>
+      <s:sku>151209-44147RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>3434</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 6 7/8</title>
+      <s:price currency="USD">71.50</s:price>
+      <s:sku>151209-44148RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>3497</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 7</title>
+      <s:price currency="USD">72.80</s:price>
+      <s:sku>151209-44149RT Soulmate Mulberry FW4850</s:sku>
+      <s:grams>3561</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 7 1/8</title>
+      <s:price currency="USD">74.10</s:price>
+      <s:sku>151209-44150RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>3624</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 7 2/8</title>
+      <s:price currency="USD">75.40</s:price>
+      <s:sku>151209-44151RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>3692</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 7 3/8</title>
+      <s:price currency="USD">76.70</s:price>
+      <s:sku>151209-44152RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>3751</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 7 4/8</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku>151209-44153RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>3819</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 7 5/8</title>
+      <s:price currency="USD">79.30</s:price>
+      <s:sku>151209-44154RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>3878</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 7 6/8</title>
+      <s:price currency="USD">80.60</s:price>
+      <s:sku>151209-44155RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>3946</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 7 7/8</title>
+      <s:price currency="USD">81.90</s:price>
+      <s:sku>151209-44156RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>4010</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 8</title>
+      <s:price currency="USD">83.20</s:price>
+      <s:sku>151209-44157RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>4073</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 8 1/8</title>
+      <s:price currency="USD">84.50</s:price>
+      <s:sku>151209-44158RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>4137</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 8 2/8</title>
+      <s:price currency="USD">85.80</s:price>
+      <s:sku>151209-44159RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>4200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 8 3/8</title>
+      <s:price currency="USD">87.10</s:price>
+      <s:sku>151209-44160RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>4264</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 8 4/8</title>
+      <s:price currency="USD">88.40</s:price>
+      <s:sku>151209-44161RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>4327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 8 5/8</title>
+      <s:price currency="USD">89.70</s:price>
+      <s:sku>151209-44162RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>4391</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 8 6/8</title>
+      <s:price currency="USD">91.00</s:price>
+      <s:sku>151209-44163RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>4454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 8 7/8</title>
+      <s:price currency="USD">92.30</s:price>
+      <s:sku>151209-44164RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>4518</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 9</title>
+      <s:price currency="USD">93.60</s:price>
+      <s:sku>151209-44165RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>4581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 9 1/8</title>
+      <s:price currency="USD">94.90</s:price>
+      <s:sku>151209-44166RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>4645</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 9 2/8</title>
+      <s:price currency="USD">96.20</s:price>
+      <s:sku>151209-44167RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>4708</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 9 3/8</title>
+      <s:price currency="USD">97.50</s:price>
+      <s:sku>151209-44168RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>4772</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 9 4/8</title>
+      <s:price currency="USD">98.80</s:price>
+      <s:sku>151209-44169RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>4835</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 9 5/8</title>
+      <s:price currency="USD">100.10</s:price>
+      <s:sku>151209-44170RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>4899</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 9 6/8</title>
+      <s:price currency="USD">101.40</s:price>
+      <s:sku>151209-44171RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>4962</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/3674081921</id>
+      <title>Order Product / 9 7/8</title>
+      <s:price currency="USD">102.70</s:price>
+      <s:sku>151209-44172RT Soulmate Mulberry 99A</s:sku>
+      <s:grams>5026</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/462408357</id>
+    <published>2015-04-20T14:46:00-04:00</published>
+    <updated>2015-04-20T14:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/upholstery-fabric-route-beetroot-yardage"/>
+    <title>Route Beetroot Barcode Stripe Circle Print Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>Bernhardt Textiles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/upholstery-fabric-route-beetroot-toto-fabrics-bern-1.jpeg?v=1429555334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bernhardt Textiles<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 10.00
+            <a href="https://www.totofabrics.com/products/upholstery-fabric-route-beetroot-yardage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>Circles in a set layout sit on top of a barcode inspired stripe pattern on this light upholstery fabric. Also great for home decor, the multicolored print design has colors including pink, tan, plum purple, and white.</p>
+<p><strong>Split Bolt: </strong><span>﻿The inventory of this fabric is made of multiple pieces. Orders will be completed with the largest continuous sizes available. Call or email for current sizes.</span></p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Route Beetroot <br><b>ID Number</b> 140101-11279YD <br><b>Color</b> Multi<br><b>Width</b> 55" <br><b>Pattern Repeat</b> 3.27” Horizontal, 4.5” Vertical <br><b>Fiber Contents</b> Unspecified<br><b>Vendor</b> Bernhardt Textiles</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> - <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> - <br><b>Cleaning:</b> - <br><b>Additional Information:</b> 4 Screens. No Other Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-15-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-multi</s:tag>
+    <s:tag>fabrics-print</s:tag>
+    <s:tag>fabrics-taffeta</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-stripe</s:tag>
+    <s:tag>unspecified-traffic-fabric</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/462408357</id>
+      <title>Order Product</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>&apos;=140101-11279YD Route Beetroot BR11C</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/462408357</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>140101-11279FS Route Beetroot BR11C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

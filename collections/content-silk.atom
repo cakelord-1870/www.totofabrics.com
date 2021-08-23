@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.totofabrics.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.totofabrics.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.totofabrics.com/collections/content-silk.atom"/>
+  <title>Toto Fabrics</title>
+  <updated>2015-04-22T21:59:00-04:00</updated>
+  <author>
+    <name>Toto Fabrics</name>
+  </author>
+  <entry>
+    <id>https://www.totofabrics.com/products/465447301</id>
+    <published>2015-04-22T21:59:00-04:00</published>
+    <updated>2015-04-22T21:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/drapery-fabric-silk-taffeta-wisdom-yardage"/>
+    <title>Silk Taffeta Wisdom Warm Gingham Plaid Drapery Fabric</title>
+    <s:type>Drapery Fabric</s:type>
+    <s:vendor>Silk Crafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/drapery-fabric-silk-taffeta-wisdom-toto-fabrics-silk-1.jpeg?v=1429754226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silk Crafts<br>
+        <strong>Type: </strong>Drapery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 23.00
+            <a href="https://www.totofabrics.com/products/drapery-fabric-silk-taffeta-wisdom-yardage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>Are you in the market for a classic silk taffeta home decor or drapery fabric? The timeless gingham pattern is set in warm beige and burgundy with a light teal accent to give you a crisp, high end look.</p>
+<p> </p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Silk Taffeta Wisdom <br><b>ID Number</b> 140405-44134YD <br><b>Color</b> Burgundy, Gold, Tan<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 0.5” Horizontal, 0.5” Vertical <br><b>Fiber Contents</b> 100% Silk <br><b>Vendor</b> Silk Crafts</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> - <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> - <br><b>Cleaning:</b> - <br><b>Additional Information:</b> Made In India. No Other Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-up-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-burgundy</s:tag>
+    <s:tag>color-gold</s:tag>
+    <s:tag>color-tan</s:tag>
+    <s:tag>content-silk</s:tag>
+    <s:tag>drapery-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-gingham</s:tag>
+    <s:tag>pattern-plaid</s:tag>
+    <s:tag>unspecified-traffic-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/465447301</id>
+      <title>Order Product</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>&apos;=140405-44134YD Silk Taffeta Wisdom SF1006</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/465447301</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>140405-44134FS Silk Taffeta Wisdom SF1006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/465447189</id>
+    <published>2015-04-22T21:59:00-04:00</published>
+    <updated>2015-04-22T21:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/drapery-fabric-silk-taffeta-sage-yardage"/>
+    <title>Silk Taffeta Sage Smooth Balanced Striped Home Decor Fabric</title>
+    <s:type>Drapery Fabric</s:type>
+    <s:vendor>Silk Crafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/drapery-fabric-silk-taffeta-sage-toto-fabrics-silk-1.jpeg?v=1520138837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silk Crafts<br>
+        <strong>Type: </strong>Drapery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 23.00
+            <a href="https://www.totofabrics.com/products/drapery-fabric-silk-taffeta-sage-yardage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>Timeless silk taffeta is a great choice if you're in the market for a crisp home decor or drapery fabric. Small vertical stripes are balanced in pale green with red accents and a beautiful satin sheen.</p>
+<p><strong>Split Bolt: </strong><span>﻿The inventory of this fabric is made of multiple pieces. Orders will be completed with the largest continuous sizes available. Call or email for current sizes.</span></p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Silk Taffeta Sage <br><b>ID Number</b> 140405-44133YD <br><b>Color</b> Green<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 1” Horizontal, 0” Vertical <br><b>Fiber Contents</b> 100% Silk <br><b>Vendor</b> Silk Crafts</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> - <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> - <br><b>Cleaning:</b> - <br><b>Additional Information:</b> Made In India. No Other Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-up-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-green</s:tag>
+    <s:tag>content-silk</s:tag>
+    <s:tag>drapery-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-stripe</s:tag>
+    <s:tag>unspecified-traffic-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/465447189</id>
+      <title>Order Product</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>&apos;=140405-44133YD Silk Taffeta Sage SF831</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/465447189</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>140405-44133FS Silk Taffeta Sage SF831</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/456482505</id>
+    <published>2015-04-14T15:28:00-04:00</published>
+    <updated>2015-04-14T15:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/home-decor-fabric-silk-quilted-lozenges-gold-yardage"/>
+    <title>Silk Quilted Lozenges Gold Diamond Dupioni Home Decor Fabric</title>
+    <s:type>Home Decor Fabric</s:type>
+    <s:vendor>Toto Fabric</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/home-decor-fabric-silk-quilted-lozenges-gold-toto-fabrics-unk-2.jpeg?v=1429550877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toto Fabric<br>
+        <strong>Type: </strong>Home Decor Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 30.00
+            <a href="https://www.totofabrics.com/products/home-decor-fabric-silk-quilted-lozenges-gold-yardage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>A medium scale quilted diamond pattern is featured on lustrous, golden yellow silk dupioni. Perfect for specialty projects or as light upholstery fabric, the natural material has slubs and a crisp feel.</p>
+<strong>Split Bolt: </strong><span>﻿The inventory of this fabric is made of multiple pieces. Orders will be completed with the largest continuous sizes available. Call or email for current sizes.</span>
+<p> </p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Silk Quilted Lozenges Gold <br><b>ID Number</b> 150414-77232YD <br><b>Color</b> Gold<br><b>Width</b> 50" <br><b>Pattern Repeat</b> 2.75” Horizontal, 1.5” Vertical <br><b>Fiber Contents</b> 100% Silk<br><b>Vendor</b> Toto Fabric</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> - <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> - <br><b>Cleaning:</b> Dry Clean Only. <br><b>Additional Information:</b> Approximate Weight: 4 Oz Per Linear Yard. From The Manufacturer: "The Textured Effect Produced By The Silk Yarn Creates Slubs And Variations. These Produce Natural Shading Which Creates The Beauty Of The Fabric And Are Not Considered Flaws. Variations In Color And Texture May Occur With A Single Piece And Between One Piece And Another Due To The Irregular Nature Of Natural Silk Yarns. Sunlight On Certain Colors Could Cause Variations In Color. Therefore, Fabric Is Not Guaranteed Against Fading, Color Fastness, Or Durability. It Is Highly Recommended When Used For Drapery That It Be Lined And When Used For Upholstery It Be Scotchguarded (Tm)." Hand Made In India.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>01-to-53-wide</s:tag>
+    <s:tag>20-up-yard-price</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-gold</s:tag>
+    <s:tag>content-silk</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-diamond</s:tag>
+    <s:tag>unspecified-traffic-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/456482505</id>
+      <title>Order Product</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>&apos;=150414-77232YD Silk Quilted Lozenges Gold SF1055</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/456482505</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>150414-77232FS Silk Quilted Lozenges Gold SF1055</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/456400145</id>
+    <published>2015-04-14T14:01:00-04:00</published>
+    <updated>2015-04-14T14:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/drapery-fabric-tassel-color-104-yardage"/>
+    <title>Tassel Color 104 Embroidered Silk Upholstery Fabric</title>
+    <s:type>Drapery Fabric</s:type>
+    <s:vendor>Silk Crafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/drapery-fabric-tassel-color-104-toto-fabrics-silk-3.jpeg?v=1445273537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silk Crafts<br>
+        <strong>Type: </strong>Drapery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 25.00
+            <a href="https://www.totofabrics.com/products/drapery-fabric-tassel-color-104-yardage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>Silk taffeta in off white or ivory, embroidered with golden tassels makes for a lovely drapery fabric. With a soft sheen and crisp feel, your interior is sure to gain the elegance you've always wanted.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Tassel Color 104 <br><b>ID Number</b> 150414-44221YD <br><b>Color</b> Ivory<br><b>Width</b> 52" <br><b>Pattern Repeat</b> 9.75” Horizontal, 7.25” Vertical <br><b>Fiber Contents</b> 100% Silk<br><b>Vendor</b> Silk Crafts</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> - <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> - <br><b>Cleaning:</b> - <br><b>Additional Information:</b> There Are Irregularities Inherent In This Natural Product. Approximate Weight: 4 Oz Per Linear Yard. Made In India. No Other Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>01-to-53-wide</s:tag>
+    <s:tag>20-up-yard-price</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-ivory</s:tag>
+    <s:tag>content-silk</s:tag>
+    <s:tag>drapery-fabric</s:tag>
+    <s:tag>fabrics-taffeta</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>unspecified-traffic-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/456400145</id>
+      <title>Order Product</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>=150414-44221YD Tassel Color 104 BW2B</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/456400145</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>150414-44221FS Tassel Color 104 BW2B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/456400021</id>
+    <published>2015-04-14T14:01:00-04:00</published>
+    <updated>2015-04-14T14:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/drapery-fabric-panes-chocolate-yardage"/>
+    <title>Panes Chocolate Embroidered Silk Taffeta Home Decor Fabric</title>
+    <s:type>Drapery Fabric</s:type>
+    <s:vendor>Silk Crafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/drapery-fabric-panes-chocolate-toto-fabrics-silk-1.jpeg?v=1429034386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silk Crafts<br>
+        <strong>Type: </strong>Drapery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 16.00
+            <a href="https://www.totofabrics.com/products/drapery-fabric-panes-chocolate-yardage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>A medium sized graph check pattern is embroidered on this dark brown taffeta drapery fabric. Having a 100% natural silk content and subtle luster makes it ideal for home decorating, window treatments, formal events, and much more.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Panes Chocolate <br><b>ID Number</b> 150414-11214YD <br><b>Color</b> Brown<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 2” Horizontal, 3.75” Vertical <br><b>Fiber Contents</b> 100% Silk<br><b>Vendor</b> Silk Crafts</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> - <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> - <br><b>Cleaning:</b> - <br><b>Additional Information:</b> Style #1080. Weight: 4 Oz/Yd. There Are Irregularities Inherent In This Natural Product. Made In India.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15-20-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-brown</s:tag>
+    <s:tag>content-silk</s:tag>
+    <s:tag>drapery-fabric</s:tag>
+    <s:tag>fabrics-taffeta</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-squares</s:tag>
+    <s:tag>unspecified-traffic-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/456400021</id>
+      <title>Order Product</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>&apos;=150414-11214YD Panes Chocolate BW1C</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/456400021</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>150414-11214FS Panes Chocolate BW1C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/456399881</id>
+    <published>2015-04-14T14:01:00-04:00</published>
+    <updated>2015-04-14T14:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/drapery-fabric-panes-black-yardage"/>
+    <title>Panes Black Embroidered Silk Taffeta Home Decor Fabric</title>
+    <s:type>Drapery Fabric</s:type>
+    <s:vendor>Silk Crafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/drapery-fabric-panes-black-toto-fabrics-silk-1.jpeg?v=1429034381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silk Crafts<br>
+        <strong>Type: </strong>Drapery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 16.00
+            <a href="https://www.totofabrics.com/products/drapery-fabric-panes-black-yardage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>A medium sized graph and check pattern is embroidered on this black taffeta drapery fabric. Having a 100% natural silk content and subtle luster makes it ideal for home decorating, window treatments, formal events, and much more.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Panes Black <br><b>ID Number</b> 150414-11209YD <br><b>Color</b> Black<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 2” Horizontal, 3.75” Vertical <br><b>Fiber Contents</b> 100% Silk<br><b>Vendor</b> Silk Crafts</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> - <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> - <br><b>Cleaning:</b> - <br><b>Additional Information:</b> Style #1080. Weight: 4 Oz/Yd. There Are Irregularities Inherent In This Natural Product. Made In India.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15-20-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-black</s:tag>
+    <s:tag>content-silk</s:tag>
+    <s:tag>drapery-fabric</s:tag>
+    <s:tag>fabrics-taffeta</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-squares</s:tag>
+    <s:tag>unspecified-traffic-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/456399881</id>
+      <title>Order Product</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>&apos;=150414-11209YD Panes Black BW2A</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/456399881</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>150414-11209FS Panes Black BW2A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.totofabrics.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.totofabrics.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.totofabrics.com/collections/cf-stinson.atom"/>
+  <title>Toto Fabrics</title>
+  <updated>2021-07-20T11:57:27-04:00</updated>
+  <author>
+    <name>Toto Fabrics</name>
+  </author>
+  <entry>
+    <id>https://www.totofabrics.com/products/865277935673</id>
+    <published>2021-07-20T11:57:27-04:00</published>
+    <updated>2021-07-20T11:57:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/upholstery-fabric-salinas-blue-lagoon-yardage"/>
+    <title>CF Stinson Salinas Blue Lagoon Sunbrella Blue Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/IMG_0115_600x600_1f60846e-e1de-4294-a2b4-a9cb686de7c5.jpg?v=1580606731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 10.50
+            <a href="https://www.totofabrics.com/products/upholstery-fabric-salinas-blue-lagoon-yardage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Description</b></p>
+<p>Sunbrella finish, extremely durable upholstery fabric with circles in a striped border and several diamond patterns from solid to doubles in slate blue, gray, navy blue and white.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Salinas Blue Lagoon <br><b>ID Number</b> 63030 <br><b>Color</b> Blue<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 14.25” Horizontal, 13” Vertical <br><b>Fiber Contents</b> 70% Sunbrella® Solution Dyed Acrylic, 30% Sunbrella® Solution Dyed Polyester<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> Defiance™ Non-Pfoa Soil &amp; Stain Protection <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 100,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-15-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-blue</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-diamond</s:tag>
+    <s:tag>pattern-geometric</s:tag>
+    <s:tag>sunbrella</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/865277935673</id>
+      <title>Order Product</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>SF1180</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/865277935673</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF1180</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/4395767398483</id>
+    <published>2021-04-29T11:01:02-04:00</published>
+    <updated>2021-04-29T11:01:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/upholstery-fabric-wish-surfer-yardage"/>
+    <title>CF Stinson Wish Surfer Sunbrella Blue Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/upholstery-fabric-wish-surfer-toto-fabrics-cfs-1.jpg?v=1580610552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 12.00
+            <a href="https://www.totofabrics.com/products/upholstery-fabric-wish-surfer-yardage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>A durable thicker upholstery fabric with a geometric designs of gold, gray and blue circles with an off white background. This Sunbrella fabric can be used indoors or outdoors</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Wish Surfer <br><b>ID Number</b> 62590 <br><b>Color</b> Blue<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 14” Horizontal, 13.25” Vertical <br><b>Fiber Contents</b> 72% Sunbrella® Solution Dyed Acrylic, 28% Sunbrella® Solution Dyed Polyester<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> Defiance™ Non-Pfoa Soil &amp; Stain Protection <br><b>Backing:</b> Acrylic Latex <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 75,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-15-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-blue</s:tag>
+    <s:tag>content-synthetic-blend</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-circles</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4395767398483</id>
+      <title>Order Product</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>SF1719</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4395767398483</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF1719</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/6548196687955</id>
+    <published>2021-03-23T23:12:50-04:00</published>
+    <updated>2021-03-23T23:12:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/sunbrella-chakra-neutral-textured-stripe-outdoor-fabric"/>
+    <title>Sunbrella Chakra Neutral Textured Stripe Outdoor Fabric</title>
+    <s:type>Outdoor Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/sunbrellachakranetral.jpg?v=1616555516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Outdoor Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 22.25
+            <a href="https://www.totofabrics.com/products/sunbrella-chakra-neutral-textured-stripe-outdoor-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>Create a fresh new look a Sunbrella stain and fade resistant light gray fabric for upholstery. A durable fabric that can be used in or ourdoors.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Chakra Neutral<br><b>ID Number</b> FF 64049-0005<br><b>Color</b> Gray<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 13.38” Horizontal, 0” Vertical <br><b>Fiber Contents</b> 63% Sunbrella® Acrylic, 37% Sunbrella® Polyester<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> Enhanced Soil And Stain Protection <br><b>Backing:</b> - <br><b>Fire Codes:</b> California Technical Bulletin 117-2013, Section 1, Ufac Class 1, Nfpa 260 Class 1<br><b>Abrasion:</b> 97,500 <br><b>Cleaning:</b> WS: For water based stains use water based cleaning agents only, do not use solvents. For oil based stains use solvent cleaners only. Bleach solutions of up to 20% may be used for cleaning difficult stains. <br><b>Additional Information:</b> Collection: Sarana. Designer: Clodagh. Weight: 14.6 oz/ly. Meets or exceeds ACT certification marks in heavy duty abrasion (ASTM D-4157), colorfastness to light (AATCC-16E, 2000 Hours, Class 4), flammability, wet and dry crocking (AATCC-8 Class 5), and physical properties (Break Strength ASTM D-5034, Tear Strength ASTM D-2261, Seam Slippage ASTM D-4034, Brush Pilling ASTM D-3511 Class 4.5). Facts™ Silver Certification. Facts certification indicates that this textile has been evaluated and met environmental, economic and social standards across its life cycle. Greenguard and Greenguard Gold Certified: This textile is certified for low chemical emissions ULCOM/GG UL 2878.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-up-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-grey</s:tag>
+    <s:tag>content-synthetic-blend</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>outdoor-fabric</s:tag>
+    <s:tag>pattern-chevron</s:tag>
+    <s:tag>pattern-stripe</s:tag>
+    <s:tag>pattern-textured</s:tag>
+    <s:tag>sunbrella</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/6548196687955</id>
+      <title>Order Product</title>
+      <s:price currency="USD">22.25</s:price>
+      <s:sku>SF2399</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/6548196687955</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF2399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/6547501973587</id>
+    <published>2021-03-21T19:17:56-04:00</published>
+    <updated>2021-03-21T19:17:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/sunbrella-chakra-yellow-textured-stripe-outdoor-fabric"/>
+    <title>Sunbrella Chakra Yellow Textured Stripe Outdoor Fabric</title>
+    <s:type>Outdoor Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/sunbrellachakrayellow.jpg?v=1616368617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Outdoor Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 22.25
+            <a href="https://www.totofabrics.com/products/sunbrella-chakra-yellow-textured-stripe-outdoor-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>Create a fresh new look a Sunbrella stain and fade resistant, outdoor fabric for upholstery. This durable textile has a golden yellow chevron weave with a brown under toned thread.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Chakra Yellow<br><b>ID Number</b> FF 64049<br><b>Color</b> Yellow<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 13.38” Horizontal, 0” Vertical <br><b>Fiber Contents</b> 63% Sunbrella® Acrylic, 37% Sunbrella® Polyester<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> Enhanced Soil And Stain Protection <br><b>Backing:</b> - <br><b>Fire Codes:</b> California Technical Bulletin 117-2013, Section 1, Ufac Class 1, Nfpa 260 Class 1<br><b>Abrasion:</b> 97,500 <br><b>Cleaning:</b> WS: For water based stains use water based cleaning agents only, do not use solvents. For oil based stains use solvent cleaners only. Bleach solutions of up to 20% may be used for cleaning difficult stains. <br><b>Additional Information:</b> Collection: Sarana. Designer: Clodagh. Weight: 14.6 oz/ly. Meets or exceeds ACT certification marks in heavy duty abrasion (ASTM D-4157), colorfastness to light (AATCC-16E, 2000 Hours, Class 4), flammability, wet and dry crocking (AATCC-8 Class 5), and physical properties (Break Strength ASTM D-5034, Tear Strength ASTM D-2261, Seam Slippage ASTM D-4034, Brush Pilling ASTM D-3511 Class 4.5). Facts™ Silver Certification. Facts certification indicates that this textile has been evaluated and met environmental, economic and social standards across its life cycle. Greenguard and Greenguard Gold Certified: This textile is certified for low chemical emissions ULCOM/GG UL 2878.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-up-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-yellow</s:tag>
+    <s:tag>content-synthetic-blend</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>outdoor-fabric</s:tag>
+    <s:tag>pattern-chevron</s:tag>
+    <s:tag>pattern-stripe</s:tag>
+    <s:tag>pattern-textured</s:tag>
+    <s:tag>sunbrella</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/6547501973587</id>
+      <title>Order Product</title>
+      <s:price currency="USD">22.25</s:price>
+      <s:sku>SF1859</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/6547501973587</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF1859</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/2381419073</id>
+    <published>2021-03-20T22:33:37-04:00</published>
+    <updated>2021-03-20T22:33:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/outdoor-fabric-chakra-orange-yardage"/>
+    <title>Chakra Orange Textured Barcode Stripe Outdoor Fabric</title>
+    <s:type>Outdoor Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/IMG_6624_800x600_e3e9332a-1c2b-434a-a24f-820e233eb476.jpg?v=1616293976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Outdoor Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 22.25
+            <a href="https://www.totofabrics.com/products/outdoor-fabric-chakra-orange-yardage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>Create a fresh new look a Sunbrella stain and fade resistant, outdoor fabric for upholstery. This durable textile has an orange chevron weave with a brown under toned thread.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li rel="tab1" class="active"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div style="display: block;" id="tab1" class="tabbody active">
+<b>Fabric Name</b> Chakra Orange <br><b>ID Number</b> FF 64049<br><b>Color</b> Orange<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 13.38” Horizontal, 0” Vertical <br><b>Fiber Contents</b> 63% Sunbrella® Acrylic, 37% Sunbrella® Polyester<br><b>Vendor</b> CF Stinson</div>
+<div style="display: none;" id="tab2" class="tabbody">
+<b>Finish:</b> Enhanced Soil And Stain Protection <br><b>Backing:</b> - <br><b>Fire Codes:</b> California Technical Bulletin 117-2013, Section 1, Ufac Class 1, Nfpa 260 Class 1<br><b>Abrasion:</b> 97,500 <br><b>Cleaning:</b> WS: For water based stains use water based cleaning agents only, do not use solvents. For oil based stains use solvent cleaners only. Bleach solutions of up to 20% may be used for cleaning difficult stains. <br><b>Additional Information:</b> Collection: Sarana. Designer: Clodagh. Weight: 14.6 oz/ly. Meets or exceeds ACT certification marks in heavy duty abrasion (ASTM D-4157), colorfastness to light (AATCC-16E, 2000 Hours, Class 4), flammability, wet and dry crocking (AATCC-8 Class 5), and physical properties (Break Strength ASTM D-5034, Tear Strength ASTM D-2261, Seam Slippage ASTM D-4034, Brush Pilling ASTM D-3511 Class 4.5). Facts™ Silver Certification. Facts certification indicates that this textile has been evaluated and met environmental, economic and social standards across its life cycle. Greenguard and Greenguard Gold Certified: This textile is certified for low chemical emissions ULCOM/GG UL 2878.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-up-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-orange</s:tag>
+    <s:tag>content-synthetic-blend</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>outdoor-fabric</s:tag>
+    <s:tag>pattern-chevron</s:tag>
+    <s:tag>pattern-stripe</s:tag>
+    <s:tag>pattern-textured</s:tag>
+    <s:tag>sunbrella</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/2381419073</id>
+      <title>Order Product</title>
+      <s:price currency="USD">22.25</s:price>
+      <s:sku>SF2882</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/2381419073</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF2882</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/6540104892499</id>
+    <published>2021-03-04T22:48:17-05:00</published>
+    <updated>2021-03-04T22:48:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/cf-stinson-criss-cross-meadow-green-upholstery-vinyl"/>
+    <title>CF Stinson Criss Cross Meadow Green Upholstery Vinyl</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/TextureandSheen-CrissCross_CrissCross2.0-CRS251.jpg?v=1614916029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 8.00
+            <a href="https://www.totofabrics.com/products/cf-stinson-criss-cross-meadow-green-upholstery-vinyl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>Extreme durability, soil and stain resistant finish are great ways to finish up a heavy traffic seating area. This vinyl upholstery fabric is a tone on tone green and would be very easy to maintain.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Criss Cross Meadow<br><b>ID Number</b> CRS251<br><b>Color</b> Green<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 0” Horizontal, 0” Vertical <br><b>Fiber Contents</b> 100% Vinyl<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 500,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-green</s:tag>
+    <s:tag>content-vinyl</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>nonwoven</s:tag>
+    <s:tag>pattern-textured</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/6540104892499</id>
+      <title>Order Product</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>SF2544 &amp; SF2823</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/6540104892499</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF2544 &amp; SF2823</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/6537652437075</id>
+    <published>2021-03-01T20:46:49-05:00</published>
+    <updated>2021-03-01T20:46:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/cf-stinson-tangram-slate-geometric-gray-upholstery-fabric"/>
+    <title>CF Stinson Tangram Slate Geometric Gray Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/TextureandSheen-Tangram-64888.jpg?v=1614649551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 9.50
+            <a href="https://www.totofabrics.com/products/cf-stinson-tangram-slate-geometric-gray-upholstery-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>Tangram is a durable designer upholstery fabric, seen here in a dark gray with a light gray stitched design. Suitable for upholstery, pillows, handbags and craft projects.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Tangram Slate<br><b>ID Number</b> 64888<br><b>Color</b> Gray<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 7.13” Horizontal, 5.13” Vertical <br><b>Fiber Contents</b> 74% Polyester, 17% Post Industrial Recycled Polyester, 9% Post Consumer Recycled Polyester<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 51,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-grey</s:tag>
+    <s:tag>content-polyester</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-geometric</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/6537652437075</id>
+      <title>Order Product</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>SF2692</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/6537652437075</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF2692</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/982180888633</id>
+    <published>2021-02-24T06:17:23-05:00</published>
+    <updated>2021-02-24T06:17:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/cf-stinson-vapor-surf-modern-design-blue-upholstery-fabric"/>
+    <title>CF Stinson Vapor Surf Modern Design Blue Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/upholstery-fabric-vapor-surf-toto-fabrics-cfs-1_39846679-d92b-465b-a09f-600436d3805a.jpg?v=1528005000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 9.50
+            <a href="https://www.totofabrics.com/products/cf-stinson-vapor-surf-modern-design-blue-upholstery-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p><span>A designer upholstery fabric is woven with strength in warm shades of aqua blue, light olive green, and ivory.</span></p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Vapor Surf<br><b>ID Number</b> 100717-99119YD <br><b>Color</b> Blue<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 27” Horizontal, 45.5” Vertical <br><b>Fiber Contents</b> 68% Post Consumer Recycled Polyester, 25% Solution Dyed Nylon, 7% Polyester<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> Stian Resistant <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 100,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-blue</s:tag>
+    <s:tag>content-polyester</s:tag>
+    <s:tag>content-recycled</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/982180888633</id>
+      <title>Order Product</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>SF2608</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/982180888633</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF2608</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/9668237197</id>
+    <published>2021-02-24T05:29:17-05:00</published>
+    <updated>2021-02-24T05:29:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/upholstery-fabric-acrobat-turn-yardage"/>
+    <title>CF Stinson Acrobat Turn Blue Crypton Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/upholstery-fabric-acrobat-turn-toto-fabrics-cfs-1.jpg?v=1614162522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 8.50
+            <a href="https://www.totofabrics.com/products/upholstery-fabric-acrobat-turn-yardage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>A durable upholstery fabric with a geometric designs of light blue and ivory circles with a navy blue background. This fabric has a Crypton finish and would be a great addition to any decor.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Acrobat Turn <br><b>ID Number</b> 63087<br><b>Color</b> Blue<br><b>Width</b> 57" <br><b>Pattern Repeat</b> 15” Horizontal, 16.25” Vertical <br><b>Fiber Contents</b> 50% Post-Industrial Recycled Polyester, 33% Post-Consumer Recycled Polyester, 17% Polyester Crypton Green<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> - <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 60,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>57-to-99-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-blue</s:tag>
+    <s:tag>content-polyester</s:tag>
+    <s:tag>fabric-crypton</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-abstract</s:tag>
+    <s:tag>pattern-geometric</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/9668237197</id>
+      <title>Order Product</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>SF2623</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/9668237197</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF2623</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/6535427752019</id>
+    <published>2021-02-24T05:05:50-05:00</published>
+    <updated>2021-02-24T05:05:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/cf-stinson-vanish-sterling-dotted-stripe-gray-upholstery-fabric"/>
+    <title>CF Stinson Vanish Sterling Dotted Stripe Gray Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/TextureandSheen-Vanish-64111.jpg?v=1614161114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 10.50
+            <a href="https://www.totofabrics.com/products/cf-stinson-vanish-sterling-dotted-stripe-gray-upholstery-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p><span>A designer upholstery fabric is woven with strength in shades of grays and ivory. Its stain resistant finish makes this a good seating choice.</span></p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Vanish Sterling<br><b>ID Number</b> 64111<br><b>Color</b> Gray<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 13.75” Horizontal, 11.25” Vertical <br><b>Fiber Contents</b> 100% Post Industrial Recycled Solution Dyed Nylon<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> Non-Pfoa Stain Resistant <br><b>Backing:</b> <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 100,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-15-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-grey</s:tag>
+    <s:tag>content-nylon</s:tag>
+    <s:tag>content-recycled</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-abstract</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/6535427752019</id>
+      <title>Order Product</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>SF2537</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/6535427752019</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF2537</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/10541035085</id>
+    <published>2021-02-24T05:01:19-05:00</published>
+    <updated>2021-02-24T05:01:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/acrobat-salto-geometric-design-gray-upholstery-fabric"/>
+    <title>CF Stinson Acrobat Salto Geometric Design Gray Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/CF_Stinson_-_Texture_Sheen_-_Acrobat_-_63090_1.jpg?v=1502938116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 8.50
+            <a href="https://www.totofabrics.com/products/acrobat-salto-geometric-design-gray-upholstery-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p><span>A durable upholstery fabric with a geometric design of orange and beige circles with a grey background. This fabric has a Crypton finish and would be a great addition to any decor.</span></p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Acrobat Salto<br><b>ID Number</b> 63090<br><b>Color</b> Gray<br><b>Width</b> 57" <br><b>Pattern Repeat</b> 15” Horizontal, 16.25” Vertical <br><b>Fiber Contents</b> 50% Post-Industrial Recycled Polyester, 33% Post-Consumer Recycled Polyester, 17% Polyester Crypton Green<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> - <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 60,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>57-to-99-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-grey</s:tag>
+    <s:tag>content-polyester</s:tag>
+    <s:tag>fabric-crypton</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-abstract</s:tag>
+    <s:tag>pattern-geometric</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/10541035085</id>
+      <title>Order Product</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>SF2546</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/10541035085</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF2546</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/4749984366675</id>
+    <published>2021-02-22T20:07:23-05:00</published>
+    <updated>2021-02-22T20:07:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/cf-stinson-swivel-granite-geometric-gray-upholstery-fabric"/>
+    <title>CF Stinson Swivel Granite Geometric Gray Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/TextureandSheen-Swivel-63120.jpg?v=1614042397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 8.00
+            <a href="https://www.totofabrics.com/products/cf-stinson-swivel-granite-geometric-gray-upholstery-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p><span>Give your room colorful touches that will add a fun look and comfortable feel with this geometric upholstery fabric in charcoal grey with circles, rectangles and triangles of orange, yellow, and white.</span></p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Swivel Granite<br><b>ID Number</b> 63120<br><b>Color</b> Gray<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 9.25” Horizontal, 9.5” Vertical <br><b>Fiber Contents</b> 74% Post-Consumer Recycled Polyester, 26 % Nylon<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> Enhanced Soil And Stain Protection <br><b>Backing:</b> - <br><b>Fire Codes:</b> California 191-53 Technical Bulletin 117, Section E: Passed. Ufac Class 1. May Contribute To Compliance With California Technical Bulletin 133 When Used In Conjunction With Other Suitable Components.<br><b>Abrasion:</b> 100,000 <br><b>Cleaning:</b> (W-S) For Water Based Stains Use Water Based Cleaning Agents Only, Do Not Use Solvents. For Oil Based Stains Use Solvent Cleaners Only. Bleach Solutions Of Up To 20% May Be Used For Cleaning Difficult Stains. <br><b>Additional Information:</b> Performance Summary: Enhanced Soil + Stain Resistance, Enhanced Abrasion Resistance, Bleach-Solution Cleanable. Dye Lots May Vary Slightly. Specifications – Abrasion: Heavy Duty, Colorfastness To Light, Colorfastness To Wet And Dry Crocking, Flame Resistant, Superior Physical Properties. Weight: 18.65 Oz./Lin. Yd. ± 1.0 Oz. Break Strength: Astm D-5034Warp: 326.0 Lbs. Min., Fill: 435.0 Lbs. Min. Seam Slippage: Astm D-4034Warp: 98 Lbs. Min., Fill: 150 Lbs. Min. Brush Pilling: Astm D-3511Class 3.5 Min. Colorfastness To Light: Aatcc-1640 Hours, Class 5.0. Crocking: Aatcc-8Dry: Class 5.0, Wet: Class 5.0.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-grey</s:tag>
+    <s:tag>content-recycled</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-circles</s:tag>
+    <s:tag>pattern-geometric</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4749984366675</id>
+      <title>Order Product</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>SF2657</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4749984366675</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF2657</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/4749725270099</id>
+    <published>2021-02-21T19:35:00-05:00</published>
+    <updated>2021-02-21T19:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/cf-stinson-vapor-mixed-metals-modern-gray-upholstery-fabric"/>
+    <title>CF Stinson Vapor Mixed Metals Modern Gray Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/TextureandSheen-Vapor-64101.jpg?v=1613954049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 9.50
+            <a href="https://www.totofabrics.com/products/cf-stinson-vapor-mixed-metals-modern-gray-upholstery-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>A designer upholstery fabric is woven with strength in warm shades of grey, beige and gold. Complete with a stain resistant finish.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Vapor Mixed Metals<br><b>ID Number</b> 64101 <br><b>Color</b> Gray<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 27” Horizontal, 45.5” Vertical <br><b>Fiber Contents</b> 68% Post Consumer Recycled Polyester, 25% Solution Dyed Nylon, 7% Polyester<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> Stian Resistant <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 100,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-grey</s:tag>
+    <s:tag>content-polyester</s:tag>
+    <s:tag>content-recycled</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4749725270099</id>
+      <title>Order Product</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>SF2584</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4749725270099</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF2584</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/4747939840083</id>
+    <published>2021-02-16T10:24:00-05:00</published>
+    <updated>2021-02-16T10:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/cf-stinson-sumatran-palm-clematis-crypton-botanical-upholstery-fabric"/>
+    <title>CF Stinson Sumatran Palm Clematis Crypton Botanical Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/TextureandSheen-SumatranPalm-62300.jpg?v=1613489000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 7.25
+            <a href="https://www.totofabrics.com/products/cf-stinson-sumatran-palm-clematis-crypton-botanical-upholstery-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p><span>A versatile and very durable upholstery fabric which will work in any decor. It has a simple, botanical design in a tone on tone light reds and burgundy.</span></p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Sumatran Palm Clematis<br><b>ID Number</b> 62300<br><b>Color</b> Red<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 14.5” Horizontal, 20.5” Vertical <br><b>Fiber Contents</b> 53% Rayon, 47% Polyester<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 50,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-red</s:tag>
+    <s:tag>content-synthetic-blend</s:tag>
+    <s:tag>fabric-crypton</s:tag>
+    <s:tag>fabrics-crypton</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-botanical</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4747939840083</id>
+      <title>Order Product</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>SF3257</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4747939840083</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF3257</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/4747939479635</id>
+    <published>2021-02-16T10:20:02-05:00</published>
+    <updated>2021-02-16T10:20:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/cf-stinson-sumatran-palm-cantaloupe-crypton-botanical-upholstery-fabric"/>
+    <title>CF Stinson Sumatran Palm Cantaloupe Crypton Botanical Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/TextureandSheen-SumatranPalm-62298.jpg?v=1613488721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 7.25
+            <a href="https://www.totofabrics.com/products/cf-stinson-sumatran-palm-cantaloupe-crypton-botanical-upholstery-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p><span>A versatile and very durable upholstery fabric which will work in any decor. It has a simple, botanical design in a tone on tone light oranges.</span></p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Sumatran Palm Cantaloupe<br><b>ID Number</b> 62298<br><b>Color</b> Orange<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 14.5” Horizontal, 20.5” Vertical <br><b>Fiber Contents</b> 53% Rayon, 47% Polyester<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 50,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-orange</s:tag>
+    <s:tag>content-synthetic-blend</s:tag>
+    <s:tag>fabric-crypton</s:tag>
+    <s:tag>fabrics-crypton</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-botanical</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4747939479635</id>
+      <title>Order Product</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>SF3176</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4747939479635</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF3176</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/4747938889811</id>
+    <published>2021-02-16T10:16:45-05:00</published>
+    <updated>2021-02-16T10:16:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/cf-stinson-sumatran-palm-lime-green-crypton-botanical-upholstery-fabric"/>
+    <title>CF Stinson Sumatran Palm Lime Green Crypton Botanical Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/TextureandSheen-SumatranPalm-62299.jpg?v=1613488521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 7.25
+            <a href="https://www.totofabrics.com/products/cf-stinson-sumatran-palm-lime-green-crypton-botanical-upholstery-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p><span>A versatile and very durable upholstery fabric which will work in any decor. It has a simple, botanical design in a tone on tone light greens.</span></p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Sumatran Palm Lime<br><b>ID Number</b> 62299<br><b>Color</b> Green<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 14.5” Horizontal, 20.5” Vertical <br><b>Fiber Contents</b> 53% Rayon, 47% Polyester<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 50,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-green</s:tag>
+    <s:tag>content-synthetic-blend</s:tag>
+    <s:tag>fabric-crypton</s:tag>
+    <s:tag>fabrics-crypton</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-botanical</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4747938889811</id>
+      <title>Order Product</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>SF3173</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4747938889811</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF3173</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/4747938201683</id>
+    <published>2021-02-16T10:13:46-05:00</published>
+    <updated>2021-02-16T10:13:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/sumatran-palm-grain-crypton-botanical-design-upholstery-fabric"/>
+    <title>CF Stinson Sumatran Palm Grain Crypton Botanical Design Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/TextureandSheen-SumatranPalm-62296.jpg?v=1613488343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 7.25
+            <a href="https://www.totofabrics.com/products/sumatran-palm-grain-crypton-botanical-design-upholstery-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p><span>A versatile and very durable upholstery fabric which will work in any decor. It has a simple, botanical design in a tone on tone light gold or beige.</span></p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Sumatran Palm Grain<br><b>ID Number</b> 62296<br><b>Color</b> Beige<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 14.5” Horizontal, 20.5” Vertical <br><b>Fiber Contents</b> 53% Rayon, 47% Polyester<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 50,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-beige</s:tag>
+    <s:tag>content-synthetic-blend</s:tag>
+    <s:tag>fabric-crypton</s:tag>
+    <s:tag>fabrics-crypton</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-botanical</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4747938201683</id>
+      <title>Order Product</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>SF3175</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4747938201683</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF3175</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/1752424185913</id>
+    <published>2021-02-16T09:10:42-05:00</published>
+    <updated>2021-02-16T09:10:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/cf-stinson-revolution-earth-modern-design-brown-upholstery-fabric"/>
+    <title>CF Stinson Revolution Earth Modern Design Brown Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/CF_Stinson_-_Texture_Sheen_-_Revolution_-_63943_bdcca50c-afb7-4849-b245-23f65449869b.jpg?v=1539468047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 8.00
+            <a href="https://www.totofabrics.com/products/cf-stinson-revolution-earth-modern-design-brown-upholstery-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p><span>Warm gold, red and blue toned colors with a medium brown background, this durable upholstery fabric is designed for durability and class. Its stain resistant finish makes for a good seating choice.</span></p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Revolution Earth <br><b>ID Number</b> 52118-99102YD <br><b>Color</b> Brown<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 14.75” Horizontal, 14.75” Vertical <br><b>Fiber Contents</b> 55% Polyester, 45% Post Consumer Recycled Polyester<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> Non-Pfoa Stain Resistant <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 51,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-brown</s:tag>
+    <s:tag>content-polyester</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-circles</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/1752424185913</id>
+      <title>Order Product</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>SF3196</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/1752424185913</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF3196</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/4341357838419</id>
+    <published>2021-02-16T09:08:26-05:00</published>
+    <updated>2021-02-16T09:08:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/cf-stinson-salinas-coastal-sunbrella-blue-upholstery-fabric"/>
+    <title>CF Stinson Salinas Coastal Sunbrella Blue Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/IMG_0343_600x600_eacdd6d8-a039-4ca8-ad2d-1f3ddfe3dfdf.jpg?v=1573051009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 10.50
+            <a href="https://www.totofabrics.com/products/cf-stinson-salinas-coastal-sunbrella-blue-upholstery-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Description</b></p>
+<p>Sunbrella fabric, extremely durable upholstery fabric with circles in a striped border and several diamond patterns from solid to doubles in blues and browns.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Salinas Blue Coastal<br><b>ID Number 63031</b><br><b>Color</b> Blue<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 14.25” Horizontal, 13” Vertical <br><b>Fiber Contents</b> 70% Sunbrella® Solution Dyed Acrylic, 30% Sunbrella® Solution Dyed Polyester<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> Defiance™ Non-Pfoa Soil &amp; Stain Protection <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 100,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-15-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-blue</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-diamond</s:tag>
+    <s:tag>pattern-geometric</s:tag>
+    <s:tag>sunbrella</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4341357838419</id>
+      <title>Order Product</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>SF3199</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4341357838419</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF3199</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/4719776923731</id>
+    <published>2020-12-03T19:22:18-05:00</published>
+    <updated>2020-12-03T19:22:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/cf-stinson-nest-citron-geometric-yellow-upholstery-fabric"/>
+    <title>CF Stinson Nest Citron Geometric Yellow Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/TextureandSheen-Nest-64092.jpg?v=1607041295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 9.50
+            <a href="https://www.totofabrics.com/products/cf-stinson-nest-citron-geometric-yellow-upholstery-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p><span>Having a geometric design with lines in white and gray on a dark yellow background, this upholstery fabric would make great pillows or add some neutral colors to your home decor projects.</span></p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Nest Citron<br><b>ID Number</b> 64092<br><b>Color</b> Yellow<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 14.13” Horizontal, 22” Vertical <br><b>Fiber Contents</b> 61% Post Consumer Recycled Polyester, 25% Solution Dyed Nylon, 14% Post Industrial Recycled Nylon<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> Stain Resistant <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 70,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-yellow</s:tag>
+    <s:tag>content-polyester</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-geometric</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4719776923731</id>
+      <title>Order Product</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>SF363</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4719776923731</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF363</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/4395767431251</id>
+    <published>2020-02-01T17:26:57-05:00</published>
+    <updated>2020-02-01T17:26:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/upholstery-fabric-euclid-yarrow-yardage"/>
+    <title>CF Stinson Euclid Yarrow Geometric Gold Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/upholstery-fabric-euclid-yarrow-toto-fabrics-cfs-1.jpg?v=1580610435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 9.50
+            <a href="https://www.totofabrics.com/products/upholstery-fabric-euclid-yarrow-yardage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>A durable upholstery fabric with stacked triangles of gold, gray and cream. This fabric has a stain resistant finish for easy clean up.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Euclid Yarrow <br><b>ID Number</b> 64921<br><b>Color</b> Gold<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 9.88” Horizontal, 9.5” Vertical <br><b>Fiber Contents</b> 45% Polyester, 35% Post Industrial Recycled Polyester, 20% Post Consumer Recycled Polyester<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> Non-Pfoa Stain Resistant <br><b>Backing:</b> Acrylic <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 51,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-gold</s:tag>
+    <s:tag>content-polyester</s:tag>
+    <s:tag>content-recycled</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-triangles</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4395767431251</id>
+      <title>Order Product</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>13020-99102YD Euclid Yarrow SF681</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4395767431251</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>13020-99102FS Euclid Yarrow SF681</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/4390227181651</id>
+    <published>2020-01-23T08:14:48-05:00</published>
+    <updated>2020-01-23T08:14:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/cf-stinson-bass-line-tuxedo-black-striped-upholstery-fabric"/>
+    <title>CF Stinson Bass Line Tuxedo Black Striped Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/IMG_0630_600x600_d65a2b87-2e06-4d80-b96d-5ec29402304f.jpg?v=1579785413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 7.50
+            <a href="https://www.totofabrics.com/products/cf-stinson-bass-line-tuxedo-black-striped-upholstery-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p><span>Cream, light brown, gray and black rectangles form stripes across this durable upholstery fabric. The irregularity of the rectangles add interest and complexity to the 100% recycled nylon.</span></p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Bass Line Tuxedo<br><b>ID Number</b> 63062 <br><b>Color</b> Black<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 7.25” Horizontal, 8.5” Vertical <br><b>Fiber Contents</b> 100% Post-Industrial Recycled Solution Dyed Nylon<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> Non-Fluorine Stain Resistant <br><b>Backing:</b> - <br><b>Fire Codes:</b> California 191-53 Technical Bulletin 117, Section E Passed, Nfpa 260 Class 1, May Contribute To Compliance With California Technical Bulletin 133 When Used In Conjunction With Other Suitable Components. This Product Is Produced Using 100% Recycled Fiber.<br><b>Abrasion:</b> 105,000 <br><b>Cleaning:</b> (W-S) For Water Based Stains Use Water Based Cleaning Agents Only, Do Not Use Solvents. For Oil Based Stains Use Solvent Cleaners Only. Bleach Solutions Of Up To 20% May Be Used For Cleaning Difficult Stains. <br><b>Additional Information:</b> Performance Summary: Enhanced Soil + Stain Resistance, Enhanced Abrasion Resistance, Bleach-Solution Cleanable, Enhanced Fade Resistance. Dye Lots May Vary Slightly. Specifications: Abrasion – Heavy Duty, Colorfastness To Light, Colorfastness To Wet And Dry Crocking, Flame Resistant, Superior Physical Properties, Facts Gold Certification. Weight: 10.784 Oz./Lin. Yd. ± 1.0 Oz. Break Strength Astm D-5034Warp: 241 Lbs. Min., Fill: 299 Lbs. Min. Tear Strength Astm D-2261Warp: 22 Lbs. Min., Fill: 55 Lbs. Min. Seam Slippage Astm D-4034Warp: 69 Lbs. Min., Fill: 82 Lbs. Min. Brush Pilling Astm D-3511Class 5.0 Min. Colorfastness To Light Aatcc-16200 Hours, Class 5.0. Crocking Aatcc-8Dry: Class 4.0, Wet: Class 3.0.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-black</s:tag>
+    <s:tag>content-nylon</s:tag>
+    <s:tag>content-recycled</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-stripe</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4390227181651</id>
+      <title>Order Product</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>&apos;=160214-99131YD Bass Line Tuxedo SF817</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4390227181651</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>160214-99131FS Bass Line Tuxedo SF817</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/4390232227923</id>
+    <published>2020-01-22T21:55:05-05:00</published>
+    <updated>2020-01-22T21:55:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/upholstery-fabric-voltage-electric-yardage"/>
+    <title>CF Stinson Voltage Electric Geometric Burgundy Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/upholstery-fabric-voltage-electric-toto-fabrics-cfs-1.jpg?v=1579788617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 11.50
+            <a href="https://www.totofabrics.com/products/upholstery-fabric-voltage-electric-yardage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>A unique pattern of geometric stripes formed by orange lines and triangles of oranges, pinks and green on a background of burgundy.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Voltage Electric <br><b>ID Number</b> 63322 <br><b>Color</b> Burgundy<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 0” Horizontal, 0” Vertical <br><b>Fiber Contents</b> 50% Post-Industrial Recycled Nylon, 35% Cotton, 8% Polyester, 7% Rayon<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 100,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-15-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-burgundy</s:tag>
+    <s:tag>content-cotton-blend</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-stripe</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4390232227923</id>
+      <title>Order Product</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>12220-99108YD Voltage Electric SF1037</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4390232227923</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>12220-99108FS Voltage Electric SF1037</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/4390231998547</id>
+    <published>2020-01-22T21:55:05-05:00</published>
+    <updated>2020-01-22T21:55:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/upholstery-fabric-sideline-shady-lane-yardage"/>
+    <title>CF Stinson Sideline Shady Lane Stripe Black Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/upholstery-fabric-sideline-shady-lane-toto-fabrics-cfs-1.jpg?v=1579787145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 8.50
+            <a href="https://www.totofabrics.com/products/upholstery-fabric-sideline-shady-lane-yardage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>A highly durable fabric shown here with white, gold and gray dotted threads on a black background. Perfect for chairs, sofas and other upholstery projects.</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Sideline Shady Lane <br><b>ID Number</b> 63350 <br><b>Color</b> Black<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 0” Horizontal, 0” Vertical <br><b>Fiber Contents</b> 100% Post-Industrial Recycled Polyester<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> Non-Pfoa Stain Resistant <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 100,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-black</s:tag>
+    <s:tag>content-polyester</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-stripe</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4390231998547</id>
+      <title>Order Product</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>12220-99102YD Sideline Shady Lane SF232</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4390231998547</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>12220-99102FS Sideline Shady Lane SF232</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totofabrics.com/products/4359603028051</id>
+    <published>2019-12-06T21:03:47-05:00</published>
+    <updated>2019-12-06T21:03:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totofabrics.com/products/upholstery-fabric-pinball-surf-yardage"/>
+    <title>CF Stinson Pinball Surf Geometric Blue Upholstery Fabric</title>
+    <s:type>Upholstery Fabric</s:type>
+    <s:vendor>CF Stinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0804/7909/products/upholstery-fabric-pinball-surf-toto-fabrics-cfs-1.jpg?v=1575684284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CF Stinson<br>
+        <strong>Type: </strong>Upholstery Fabric<br>
+        <strong>Price: </strong>
+            1.00 - 8.00
+            <a href="https://www.totofabrics.com/products/upholstery-fabric-pinball-surf-yardage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Description</b><br>
+<p>A high quality upholstery fabric with geometric shapes in blues and olive green. Perfect for sofas, chairs, handbags and upholstery projects..</p>
+<div class="tabcontainer">
+<ul class="tabheading">
+<li class="active" rel="tab1"><a>Summary</a></li>
+<li rel="tab2"><a>Details</a></li>
+</ul>
+<div class="tabbody active" id="tab1" style="display: block;">
+<b>Fabric Name</b> Pinball Surf <br><b>ID Number</b> 64552 <br><b>Color</b> Blue<br><b>Width</b> 54" <br><b>Pattern Repeat</b> 14.88” Horizontal, 14.25” Vertical <br><b>Fiber Contents</b> 53% Polyester, 25% Post Industrial Recycled Polyester, 22% Post Consumer Recycled Polyester<br><b>Vendor</b> CF Stinson</div>
+<div class="tabbody" id="tab2" style="display: none;">
+<b>Finish:</b> Stain Resistant <br><b>Backing:</b> - <br><b>Fire Codes:</b> -<br><b>Abrasion:</b> 60,000 <br><b>Cleaning:</b> Dry Cleaning Recommended <br><b>Additional Information:</b> No Technical Information Available.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10-yard-price</s:tag>
+    <s:tag>54-to-56-wide</s:tag>
+    <s:tag>all-fabric</s:tag>
+    <s:tag>color-blue</s:tag>
+    <s:tag>content-polyester</s:tag>
+    <s:tag>high-traffic-fabric</s:tag>
+    <s:tag>home-decor-fabric</s:tag>
+    <s:tag>pattern-geometric</s:tag>
+    <s:tag>upholstery-fabric</s:tag>
+    <s:tag>woven</s:tag>
+    <s:tag>yardage</s:tag>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4359603028051</id>
+      <title>Order Product</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>SF1910</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.totofabrics.com/products/4359603028051</id>
+      <title>Order Sample</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>SF1910</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
